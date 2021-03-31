@@ -1,4 +1,3 @@
-
 # Virtuel Webcam Setup Guide
 
 > **Virtualization of sound**
@@ -11,7 +10,7 @@
  5.  Add another souce by pressing the same **+**  again, this time choose **Spectralizer**. 
 	 - For **mode** choose **wire** in the drop down menu.
 	 - For **Audio souce** choose the perfered microphone.
-	 - _**Optional**_ change the color of the wire by clicking **select color** and choosing the perfered color.
+	 - _**Optional:**_ change the color of the wire by clicking **select color** and choosing the perfered color.
 	 - For **Wire mode** choose **Custom thickness**. The deafult **Wire thickness** is 5 pixels, change this to 10 instead.
  6. Resize and reposition the audio wire so that it fits the picture chosen. Make sure that it is on top of the picture, by dragging it to the top of the list of sources. 
  7. Press **Start Virtual Camera** to start the virtual camera, then select **OBS**-**Camera** as your **webcam** in your perfered application.
