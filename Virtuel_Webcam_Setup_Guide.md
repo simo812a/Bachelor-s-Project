@@ -1,4 +1,4 @@
-﻿
+
 # Virtuel Webcam Setup Guide
 
 > **Virtualization of sound**
@@ -41,8 +41,13 @@
 6.  Press **Start Virtual Camera** to start the virtual camera, then select "OBS Camera" as your **webcam** in your perfered application.
  > **Virtuel background / blur**
  1. Download and install XSplit VCam (Windows only) from: https://www.xsplit.com/vcam
+
  Installation instructions can be found at: https://www.xsplit.com/support/vcam/getting-started
+ 
  2. Open XSplit VCam and follow the setup instructions. Login is optional and can be skipped. Make sure to select the right webcam in the dropdown menu at the top once setup is done.
+ 
  3. To blur out the background use the slider below the preview window.
+ 
  4. To change the background choose one on to the right of the preview window. Press **Add background** to add a cumtom background to the webcam.
+ 
  5. Select "XSplit Vcam" as your **webcam** in your perfered application to use either a blurred out or cumtom background.
