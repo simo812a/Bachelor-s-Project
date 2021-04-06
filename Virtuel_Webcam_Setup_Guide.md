@@ -1,4 +1,3 @@
-
 # Virtuel Webcam Setup Guide
 
 > **Virtualization of sound**
@@ -42,7 +41,7 @@
  > **Virtuel background / blur**
  1. Download and install XSplit VCam (Windows only) from: https://www.xsplit.com/vcam
 
- Installation instructions can be found at: https://www.xsplit.com/support/vcam/getting-started
+ 	Installation instructions can be found at: https://www.xsplit.com/support/vcam/getting-started
  
  2. Open XSplit VCam and follow the setup instructions. Login is optional and can be skipped. Make sure to select the right webcam in the dropdown menu at the top once setup is done.
  
