@@ -2,6 +2,7 @@
 
 > **Virtualization of sound**
  1. Download and install OBS (Open Broadcaster Software) from: https://obsproject.com/da
+ 
  Installation instructions for Windows, Linux and MacOS can be found at: https://obsproject.com/wiki/install-instructions
  
  2. Download and install Spectralizer for OBS. Download link and installation guide can be found at: https://obsproject.com/forum/resources/spectralizer.861/
