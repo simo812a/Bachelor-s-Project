@@ -1,4 +1,3 @@
-
 # Virtuel Webcam Setup Guide
 
 > **Virtualization of sound**
@@ -41,19 +40,29 @@
  10.  Press **Start Virtual Camera** to start the virtual camera, then select "OBS Camera" as your **webcam** in your perfered application.
  > **Virtuel background / blur**
  1. Download and install XSplit VCam (Windows only) from: https://www.xsplit.com/vcam
+
  Installation instructions can be found at: https://www.xsplit.com/support/vcam/getting-started
+
  2. Open XSplit VCam and follow the setup instructions. Login is optional and can be skipped. Make sure to select the right webcam in the dropdown menu at the top once setup is done.
+
  3. To blur out the background use the slider below the preview window.
+
  4. To change the background choose one on to the right of the preview window. Press **Add background** to add a cumtom background to the webcam.
+
  5. Select "XSplit Vcam" as your **webcam** in your perfered application to use either a blurred out or cumtom background.
   > **Webcam Avatar**
  
  There are multiply programs available for creating webcam-avatars. Feek free to use whatever one you like.
  "VTuber Maker" is a reasonable choice for proof of concept. It can be  downloaded through Steam, the video game digital distribution service. An account is need to use the software.
 
- 1. Once the program is downloaded and a account is setup, choose your perfered webcam as input in the windown in the lower left corner
+ 1. Once the program is downloaded and a account is setup, choose your perfered webcam as input in the windown in the lower left corner.
+
  2. Next select your perfered avatar and background. The background can be blurred in settings.
+
  3. To zoom in hold shift and use the scrollwheel. Zooming in a bit to have mostly the upper body showing is recommended.
+
  4. Press "Tracking" to change which features the program should track. Head and facial tracking is recommended.
+
  5. Toggle the "Virtuel broadcast" on by clicking the Tv-icon on the right. 
+ 
  6. Select "VTuber Maker Virtual Camera" as your **webcam** in your perfered application to use the avatar.
