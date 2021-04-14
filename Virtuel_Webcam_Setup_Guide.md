@@ -17,7 +17,7 @@
  > **Silhouette**
  
  1. Download and install OBS (Open Broadcaster Software) from: https://obsproject.com/da
-Installation instructions for Windows, Linux and MacOS can be found at: https://obsproject.com/wiki/install-instructions
+	Installation instructions for Windows, Linux and MacOS can be found at: https://obsproject.com/wiki/install-instructions
  
  2. Download and install XSplit VCam (Windows only) from: https://www.xsplit.com/vcam
  Installation instructions can be found at: https://www.xsplit.com/support/vcam/getting-started
