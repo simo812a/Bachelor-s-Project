@@ -1,4 +1,4 @@
-﻿
+
 # Virtuel Webcam Setup Guide
 
 > **Virtualization of sound**
@@ -50,7 +50,8 @@
  
  There are multiply programs available for creating webcam-avatars. Feek free to use whatever one you like.
  "VTuber Maker" is a reasonable choice for proof of concept. It can be  downloaded through Steam, the video game digital distribution service. An account is need to use the software.
-1. Once the program is downloaded and a account is setup, choose your perfered webcam as input in the windown in the lower left corner
+
+ 1. Once the program is downloaded and a account is setup, choose your perfered webcam as input in the windown in the lower left corner
  2. Next select your perfered avatar and background. The background can be blurred in settings.
  3. To zoom in hold shift and use the scrollwheel. Zooming in a bit to have mostly the upper body showing is recommended.
  4. Press "Tracking" to change which features the program should track. Head and facial tracking is recommended.
