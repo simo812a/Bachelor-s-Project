@@ -41,7 +41,9 @@
  9. Make sure that the video source  is on top of the color source, by dragging it to the top of the list of sources.
  10.  Press **Start Virtual Camera** to start the virtual camera, then select "OBS Camera" as your **webcam** in your perfered application.
  11. I can be contacted at 201807863@post.au.dk if you are experiencing difficulties and are in need of help, and I will get back to you.
-## Virtuel background / blur
+## Virtuel background / Blur
+>**First Option**
+
  1. Download and install XSplit VCam (Windows only) from: https://www.xsplit.com/vcam
 Installation instructions can be found at: https://www.xsplit.com/support/vcam/getting-started
 
