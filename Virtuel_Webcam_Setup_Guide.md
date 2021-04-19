@@ -58,9 +58,14 @@ Installation instructions can be found at: https://www.xsplit.com/support/vcam/g
 
 >**Second Option** - Using the build in features (Zoom)
 1. Open Zoom and go to settings.
+
 2. Go to the "Background & Filters" tab.
-3. Under "Virtual Backgrounds" choose your perfered background. If you want to blur out your background, select that option instead of any of the pictures.
+
+3. Under "Virtual Backgrounds" choose your perfered background.
+	If you want to blur out your background, select that option instead of any of the pictures.
+
 	-  _Optional:_ add your own background by pressing the **+** icon on the right.
+
 ## Webcam Avatar
  
  There are multiply programs available for creating webcam-avatars. Feek free to use whatever one you like.
