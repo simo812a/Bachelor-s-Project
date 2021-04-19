@@ -64,7 +64,7 @@ Installation instructions can be found at: https://www.xsplit.com/support/vcam/g
 3. Under "Virtual Backgrounds" choose your perfered background.
 	If you want to blur out your background, select that option instead of any of the pictures.
 
-	-  _Optional:_ add your own background by pressing the **+** icon on the right.
+	-  _Optional_: add your own background by pressing the **+** icon on the right.
 
 ## Webcam Avatar
  
