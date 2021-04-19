@@ -1,6 +1,6 @@
 # Virtuel Webcam Setup Guide
 
-> **Virtualization of sound**
+> ##Virtualization of sound**
  1. Download and install OBS (Open Broadcaster Software) from: https://obsproject.com/da
  	Installation instructions for Windows, Linux and MacOS can be found at: https://obsproject.com/wiki/install-instructions
  
