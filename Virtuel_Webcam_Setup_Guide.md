@@ -14,6 +14,8 @@
 	 - For **Wire mode** choose **Custom thickness**. The deafult **Wire thickness** is 5 pixels, change this to 10 instead.
  6. Resize and reposition the audio wire so that it fits the picture chosen. Make sure that it is on top of the picture, by dragging it to the top of the list of sources. 
  7. Press **Start Virtual Camera** to start the virtual camera, then select "OBS Camera" as your **webcam** in your perfered application.
+ 8. I can be contacted at 201807863@post.au.dk if you are experiencing difficulties and are in need of help, and I will get back to you.
+
  ## Silhouette
  
  1. Download and install OBS (Open Broadcaster Software) from: https://obsproject.com/da
@@ -38,6 +40,7 @@
 		- When done press **OK**
  9. Make sure that the video source  is on top of the color source, by dragging it to the top of the list of sources.
  10.  Press **Start Virtual Camera** to start the virtual camera, then select "OBS Camera" as your **webcam** in your perfered application.
+ 11. I can be contacted at 201807863@post.au.dk if you are experiencing difficulties and are in need of help, and I will get back to you.
 ## Virtuel background / blur
  1. Download and install XSplit VCam (Windows only) from: https://www.xsplit.com/vcam
 Installation instructions can be found at: https://www.xsplit.com/support/vcam/getting-started
@@ -49,6 +52,7 @@ Installation instructions can be found at: https://www.xsplit.com/support/vcam/g
  4. To change the background choose one on to the right of the preview window. Press **Add background** to add a cumtom background to the webcam.
 
  5. Select "XSplit Vcam" as your **webcam** in your perfered application to use either a blurred out or cumtom background.
+ 6. I can be contacted at 201807863@post.au.dk if you are experiencing difficulties and are in need of help, and I will get back to you.
 ## Webcam Avatar
  
  There are multiply programs available for creating webcam-avatars. Feek free to use whatever one you like.
@@ -65,3 +69,4 @@ Installation instructions can be found at: https://www.xsplit.com/support/vcam/g
  5. Toggle the "Virtuel broadcast" on by clicking the Tv-icon on the right. 
  
  6. Select "VTuber Maker Virtual Camera" as your **webcam** in your perfered application to use the avatar.
+ 7. I can be contacted at 201807863@post.au.dk if you are experiencing difficulties and are in need of help, and I will get back to you.
