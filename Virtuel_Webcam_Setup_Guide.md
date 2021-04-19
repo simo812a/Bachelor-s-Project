@@ -42,7 +42,7 @@
  10.  Press **Start Virtual Camera** to start the virtual camera, then select "OBS Camera" as your **webcam** in your perfered application.
  11. I can be contacted at 201807863@post.au.dk if you are experiencing difficulties and are in need of help, and I will get back to you.
 ## Virtuel background / Blur
->**First Option**
+>**First Option** - Using a third party program (XSplit VCam)
 
  1. Download and install XSplit VCam (Windows only) from: https://www.xsplit.com/vcam
 Installation instructions can be found at: https://www.xsplit.com/support/vcam/getting-started
@@ -55,6 +55,10 @@ Installation instructions can be found at: https://www.xsplit.com/support/vcam/g
 
  5. Select "XSplit Vcam" as your **webcam** in your perfered application to use either a blurred out or cumtom background.
  6. I can be contacted at 201807863@post.au.dk if you are experiencing difficulties and are in need of help, and I will get back to you.
+
+>**Second Option** - Using the build in features (Zoom)
+
+	1. Test
 ## Webcam Avatar
  
  There are multiply programs available for creating webcam-avatars. Feek free to use whatever one you like.
