@@ -57,7 +57,10 @@ Installation instructions can be found at: https://www.xsplit.com/support/vcam/g
  6. I can be contacted at 201807863@post.au.dk if you are experiencing difficulties and are in need of help, and I will get back to you.
 
 >**Second Option** - Using the build in features (Zoom)
-2. Open XSplit VCam and follow the setup instructions. Login is optional and can be skipped. Make sure to select the right webcam in the dropdown menu at the top once setup is done.
+1. Open Zoom and go to settings.
+2. Go to the "Background & Filters" tab.
+3. Under "Virtual Backgrounds" choose your perfered background. If you want to blur out your background, select that option instead of any of the pictures.
+	-  _Optional:_ add your own background by pressing the **+** icon on the right.
 ## Webcam Avatar
  
  There are multiply programs available for creating webcam-avatars. Feek free to use whatever one you like.
